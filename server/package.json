@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon server.js"
   },
-  "author": "Luke Grech",
+  "author": "Luke Grech <lukegrech2002@icloud.com>",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
